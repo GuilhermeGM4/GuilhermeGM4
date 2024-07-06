@@ -16,7 +16,7 @@
 
 ## 📬 Get in Touch
 
-- Connect with me on [LinkedIn]([https://twitter.com/introvertedbot](https://www.linkedin.com/in/guilherme-mancuso-3798a116b/))
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/guilherme-mancuso-3798a116b/)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
