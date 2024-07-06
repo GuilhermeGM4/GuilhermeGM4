@@ -6,6 +6,11 @@
 -Currently finishing graduation
 
 
+## GitHub Stats
+<!--![GuilhermeGM4's Stats](https://github-readme-stats.vercel.app/api?username=GuilhermeGM4&theme=dracula&show_icons=true&hide_border=true&count_private=true)-->
+![GuilhermeGM4's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeGM4&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+
+
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,discord)](https://skillicons.dev)
 
