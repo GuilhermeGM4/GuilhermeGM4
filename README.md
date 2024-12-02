@@ -12,7 +12,7 @@
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,java,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,kotlin,java,discord)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
